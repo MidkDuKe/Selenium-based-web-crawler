@@ -6,5 +6,5 @@ pip install selenium pandas
 ```
 
 ### 2. 安装WebDriver
-edge !(https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
-chrome !(https://developer.chrome.google.cn/docs/chromedriver)
+edge https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/ \
+chrome https://developer.chrome.google.cn/docs/chromedriver
